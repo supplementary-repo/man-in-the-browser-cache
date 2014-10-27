@@ -1,7 +1,6 @@
-man-in-the-browser-cache
+man-in-the-browser-cache supplementary repo
 ========================
 
-man-in-the-browser-cache supplementary repo
 Supplementary files for paper "Man-in-the-Browser-Cache: Persisting HTTPS Attacks via Browser Cache Poisoning".
 
 The structure as follows:
